@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1503802020 source:d:\acm\180747\c\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<vector>
+	<queue>
+	<set>
+	<map>
+
+1503847569 source:e:\common\c++\[ algorithm ]\vjudge\180747\c\main.cpp
+	<bits/stdc++.h>
+
